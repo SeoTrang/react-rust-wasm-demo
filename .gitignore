@@ -1,0 +1,45 @@
+# =====================================
+# Global ignores for React + Rust (WASM)
+# =====================================
+
+# Node.js / React
+node_modules/
+dist/
+build/
+.vite/
+*.local
+*.log
+*.cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Rust / Cargo
+target/
+**/pkg/
+Cargo.lock
+*.rs.bk
+
+# WASM Pack
+wasm-pack.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Misc
+.env
+.env.*
