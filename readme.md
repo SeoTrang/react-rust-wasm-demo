@@ -515,17 +515,3 @@ npm run dev
 > Lưu ý: đường dẫn `../rust_wasm_math` giả định cấu trúc như trên; chỉnh theo repo của bạn.
 
 ---
-
-## Muốn mình tùy chỉnh thêm?
-
-Nếu bạn muốn mình sửa tài liệu để:
-
-* Thêm phần hướng dẫn **bằng hình** (screenshot) cho từng bước cài đặt trên Windows,
-* Viết sẵn `Cargo.toml` + toàn bộ `src/lib.rs` final để copy/paste,
-* Viết script PowerShell hoàn chỉnh cho dev loop (tự động rebuild wasm + start vite),
-
-hãy nói phần bạn muốn mình thêm — mình sẽ cập nhật ngay trong tài liệu này.
-
----
-
-Chúc bạn build vui! 🚀
