@@ -1,4 +1,4 @@
-# Rust ↔ React (WASM) — Hướng dẫn cực kỳ chi tiết (Windows + Vite)
+# Rust ↔ React (WASM) (Windows + Vite)
 
 > Mục tiêu: tạo một thư viện Rust, biên dịch sang WebAssembly bằng `wasm-pack`, rồi nhúng vào ứng dụng React (Vite). Nội dung này phù hợp cho người mới bắt đầu Rust.
 
